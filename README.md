@@ -36,8 +36,8 @@ Arborithm is an individually managed software project developed with AI assistan
 
 ## Repositories
 
-- Arborithm-Frontend (Available upon Request)
-- Arborithm-Backendn (Available upon Request)
+- Arborithm-Frontend (Listed private -Available upon Request)
+- Arborithm-Backendn (Listed private -Available upon Request)
 
 ## Projected Upgrades
 
