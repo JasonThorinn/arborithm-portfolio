@@ -37,7 +37,7 @@ Arborithm is an individually managed software project developed with AI assistan
 ## Repositories
 
 - Arborithm-Frontend (Listed private -Available upon Request)
-- Arborithm-Backendn (Listed private -Available upon Request)
+- Arborithm-Backend (Listed private -Available upon Request)
 
 ## Projected Upgrades
 
@@ -49,7 +49,7 @@ Arborithm is an individually managed software project developed with AI assistan
 - Consulting Arborist Software
   - Tree value quoting 
   - Tree Risk Assessment Software
-- Tree Worker Saftey
+- Tree Worker Safety
   - Access to ANSI Z133 and OSHA standards for tree care
   - Access to Company safety manual and Best practices
   - Equipment inventory and daily record of condition
@@ -72,14 +72,8 @@ Arborithm is an individually managed software project developed with AI assistan
   - Tree tagging software (GIS)
   - Standing Volume of forest
   - Number of trees per hectare (Lidar)
-  - Lidar for measuring DBH and tree height with mobile device camera
+  - Lidar for measuring Diameter at Breast Height and tree height with mobile device camera
 - Downloadable offline capabilities
-
-## Outdoor Interests
-
-My outdoor interests are centered on being out in nature. I like fishing, but I am passionate
-about hiking and exploring. In my previous career, I was a Certified Arborist through the International 
-Society of Arboriculture, which gave me the opportunity to be out in nature every day. 
 
 ## Project Status
 
