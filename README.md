@@ -36,8 +36,45 @@ Arborithm is an individually managed software project developed with AI assistan
 
 ## Repositories
 
-- Frontend:
-- Backend
+- Arborithm-Frontend (Available upon Request)
+- Arborithm-Backendn (Available upon Request)
+
+## Projected Upgrades
+
+- AI incorporation for assistance with arboriculture activities
+- Plant Health care
+  - Fungus/pest/pathogen identification
+  - Projected remedies for diagnosis
+- Tree Identification
+- Consulting Arborist Software
+  - Tree value quoting 
+  - Tree Risk Assessment Software
+- Tree Worker Saftey
+  - Access to ANSI Z133 and OSHA standards for tree care
+  - Access to Company safety manual and Best practices
+  - Equipment inventory and daily record of condition
+  - Safe Working Load Calculator
+  - Minimum Approach Distance estimator (based on Geographic location and Power voltage)
+- Team Communication
+  - Team text chat/video chat/phone chat/email access
+- Fleet Management
+  - GPS tracker for equipment
+  - Inventory of equipment and assigned driver
+  - Digital driver log for tracking commercial and non-commercial equipment
+- Logistics/Crew management
+  - work orders (logged work/assigned work)
+  - GIS for tracking work completed and available work
+- Customer/Client Portal for Private sector
+  - Customer quotes
+  - Customer invoices
+  - Customer balance
+- Forestry Applications
+  - Tree tagging software (GIS)
+  - Standing Volume of forest
+  - Number of trees per hectare (Lidar)
+  - Lidar for measuring DBH and tree height with mobile device camera
+- Downloadable offline capabilities
+
 
 ## Project Status
 
