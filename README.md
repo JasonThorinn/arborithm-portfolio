@@ -1,4 +1,4 @@
-# arborithm-portfolio
+# Arborithm-Portfolio
 ## Arborithm
 
 A software application focused on arboriculture and tree-car workflows.
