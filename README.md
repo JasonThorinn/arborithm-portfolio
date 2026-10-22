@@ -44,9 +44,10 @@ These are planned enhancements and are not represented as currently implemented.
 ## Repositories
 
 - Arborithm-Frontend Private repository; Available upon Request
+  https://github.com/JasonThorinn/Arborithm-Frontend
   
 - Arborithm-Backend Private repository; Available upon Request
-  
+  https://github.com/JasonThorinn/Arborithm-Backend
 
 ## Development Approach
 
