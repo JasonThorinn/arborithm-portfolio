@@ -6,7 +6,7 @@ Currently in development
 
 ## Description
 
-Arborithm is an independently managed software development project designed to bring modern software tools to the arboriculture and tree-care industry. Drawing on my professional background in tree care and utility vegetation management, I am developing an application that combines a React/TypeScript frontend with a Python/Django backend.
+Arborithm is an independently managed software development project focused on improving safety, streamlining workflows, and enhancing operational efficiency across the arboriculture and tree-care industry. Drawing on my professional background in tree care and utility vegetation management, I am developing a software platform designed to support field operations, safety practices, equipment management, and data-driven decision-making. The application combines a React/TypeScript frontend with a Python/Django backend, with the long-term goal of connecting field personnel, supervisors, and office staff through an integrated, cross-platform solution.
 
 ## Current Features and Development
 
